@@ -1,13 +1,2 @@
 #!/bin/bash
-ls >> 1-listit
-clear
-
-
-
-more README.md
-clear
-
-
-
-echo ls
 ls
